@@ -1,2 +1,4 @@
 #bash
 This is test file 2
+git fetch
+git diff
